@@ -1,1 +1,1 @@
-" My repository examples"
+" My repository example"
